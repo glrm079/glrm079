@@ -10,7 +10,10 @@
 
 ###
 
-<p align="left">Iniciando recentemente na faculdade de Análise e desenvolvimento de sistemas adquirindo aprendizado dia após dia.<br>Possuo foco em desenvolvimento com Javascript dentre outras tecnologias.<br>Me considero ágil e consistente em aprender uma nova linguagem e me adaptar à qualquer mudança, pronto para superar qualquer desafio!</p>
+<p align="left">
+Recently starting college in Systems Analysis and Development, acquiring knowledge day by day.
+I am focused on development with JavaScript among other technologies.
+I consider myself quick and consistent in learning a new language and adapting to any change, ready to overcome any challenge!</p>
 
 ###
 
