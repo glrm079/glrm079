@@ -12,7 +12,7 @@
 
 <p align="left">
 Graduated in Systems Analysis and Development, I have gained knowledge and experience throughout my academic and practical journey.  
-I am focused on **Full Stack development**, using **Next.js, React, and Node.js**, among other technologies.  
+I am focused on *Full Stack development*, using *Next.js, React, and Node.js*, among other technologies.  
 I consider myself quick and consistent in learning new languages and adapting to changes, ready to overcome any challenge!</p>
 
 ###
@@ -33,6 +33,11 @@ I consider myself quick and consistent in learning new languages and adapting to
 ###
 
 <div align="left">
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
@@ -47,9 +52,5 @@ I consider myself quick and consistent in learning new languages and adapting to
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" alt="googlecloud logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+ 
 </div>
