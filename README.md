@@ -6,7 +6,7 @@
 
 ###
 
-<h2 align="left">About me | Sobre mim</h2>
+<h2 align="left">About me</h2>
 
 ###
 
@@ -28,7 +28,7 @@ I consider myself quick and consistent in learning new languages and adapting to
 
 ###
 
-<h2 align="left">I code with | Eu codifico com</h2>
+<h2 align="left">I code with</h2>
 
 ###
 
