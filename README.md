@@ -1,12 +1,4 @@
-<div align="right">
-
-[🇧🇷 Português](#pt) · [🇺🇸 English](#en)
-
-</div>
-
-
-### Guilherme Oliveira
-Full Stack Developer
+### Full Stack Developer
 
 <a id="pt"></a>
 
