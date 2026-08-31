@@ -1,56 +1,27 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+<div align="right">
 
-###
+[🇧🇷 Português](#pt) · [🇺🇸 English](#en)
 
-<p align="left">My name is Guilherme Oliveira and I'm a Systems Analysis and Development student from Mogi das Cruzes-SP, Brazil</p>
-
-###
-
-<h2 align="left">About me</h2>
-
-###
-
-<p align="left">
-Graduated in Systems Analysis and Development, I have gained knowledge and experience throughout my academic and practical journey.  
-I am focused on *Full Stack development*, using *Next.js, React, and Node.js*, among other technologies.  
-I consider myself quick and consistent in learning new languages and adapting to changes, ready to overcome any challenge!</p>
-
-###
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/guilherme-oliveira-96583023a/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="mailto:glrm07928@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-  </a>
 </div>
 
-###
 
-<h2 align="left">I code with</h2>
+### Guilherme Oliveira
+Full Stack Developer
 
-###
+<a id="pt"></a>
 
+Desenvolvedor full stack especializado em React, Next.js e Node.js. Experiência prática construindo aplicações de ponta a ponta — interfaces em React/Next.js, APIs REST, bancos de dados e deploy em nuvem com AWS e Google Cloud.
+
+<a id="en"></a>
+Full stack developer specialized in React, Next.js, and Node.js. Hands-on experience building end-to-end applications — React/Next.js interfaces, REST APIs, databases, and cloud deployment with AWS and Google Cloud.
+
+[Portfolio](https://www.exploreguilherme.space) · [LinkedIn](https://www.linkedin.com/in/guilherme-oliveira-96583023a/) · [glrmcontato@gmail.com](mailto:glrmcontato@gmail.com)
+
+---
 <div align="left">
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" alt="googlecloud logo"  />
-  <img width="12" />
- 
+  <img src="https://img.shields.io/badge/React-1a1a1a?style=flat-square&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/Next.js-1a1a1a?style=flat-square&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-1a1a1a?style=flat-square&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-1a1a1a?style=flat-square&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-1a1a1a?style=flat-square&logo=amazonaws&logoColor=white" />
 </div>
